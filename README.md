@@ -56,7 +56,6 @@ The predicted department handling the complaint will be displayed on the screen.
 </div>
 
 <div align="center">
-  <h2>Credits</h2>
   <p>This project is developed as part of the Semester 7 curriculum for a Bachelor of Engineering (BE) in Artificial Intelligence and Data Science.</p>
 </div>
 
