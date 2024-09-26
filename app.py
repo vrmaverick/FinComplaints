@@ -4,7 +4,7 @@ import joblib
 # Load the model pipeline using joblib
 @st.cache_resource
 def load_model():
-    with open(r'D:\Project\nlp\FinComplaints\model\model_0.pkl', 'rb') as file:
+    with open('./model//model_0.pkl', 'rb') as file:
         model = joblib.load(file)
     return model
 
