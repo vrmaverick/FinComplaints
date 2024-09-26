@@ -65,7 +65,7 @@ The predicted department handling the complaint will be displayed on the screen.
 .
 ├── model
 │   ├── model_0.pkl           # Pre-trained classification model
-│   ├── label_encoder.pkl     # Optional label encoder (currently not in use)
+│  
 ├── app.py                    # Streamlit app code
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
