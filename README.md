@@ -51,8 +51,8 @@ The predicted department handling the complaint will be displayed on the screen.
 
 <div align="center">
   <h2>Contributors</h2>
-  <p><strong>[Vedant Ranade]</strong> - Project Developer</p>
-  <p>Special thanks to <strong><a href="[https://github.com/otheruser](https://github.com/Om1520)">[Om patil]</a></strong> for contributions to the project. (<a href="https://github.com/Om1520">Click here</a>)</p>
+  <p><strong>Vedant Ranade</strong> - Project Developer</p>
+  <p>Special thanks to <strong><a href="https://github.com/otheruser(https://github.com/Om1520)">Om patil</a></strong> for contributions to the project. (<a href="https://github.com/Om1520">Click here</a>)</p>
 </div>
 
 <div align="center">
